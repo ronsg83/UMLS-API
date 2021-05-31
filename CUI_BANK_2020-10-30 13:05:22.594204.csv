@@ -1,0 +1,193 @@
+,root_term,CUI,CUI_name,semType,root_list,root_cui,root_name,parent_term,parent_cui
+0,insomnia,C0917801,Sleeplessness,Sign or Symptom,True,,,Disorders of initiating and maintaining sleep;Dyssomnia,C0021603;C0700201
+1,insomnia,C3531724,Primary hyposomnia,Finding,False,C0917801,Sleeplessness,Not getting enough sleep,C0424566
+2,insomnia,C3662857,Insomnia caused by alcohol,Mental or Behavioral Dysfunction,False,C0917801,Sleeplessness,Alcohol-induced sleep disorder;Drug-induced insomnia,C0236662;C1561839
+3,insomnia,C0581874,Late insomnia,Mental or Behavioral Dysfunction,False,C0917801,Sleeplessness,Insomnia,C0917801
+4,insomnia,C3640497,Late insomnia,Intellectual Product,False,C0917801,Sleeplessness,,
+5,insomnia,C4330087,Late insomnia,Intellectual Product,False,C0917801,Sleeplessness,,
+6,insomnia,C0393758,Persistent insomnia,Disease or Syndrome,False,C0917801,Sleeplessness,Insomnia,C0917801
+7,insomnia,C0349255,Nonorganic insomnia,Disease or Syndrome,False,C0917801,Sleeplessness,Insomnia;Non-organic sleep disorder,C0917801;C0154565
+8,insomnia,C0341866,Menopausal sleeplessness,Sign or Symptom,False,C0917801,Sleeplessness,Insomnia;Perimenopausal disorder,C0917801;C0404559
+9,insomnia,C1561850,Insomnia disorder related to another mental disorder,Mental or Behavioral Dysfunction,False,C0917801,Sleeplessness,Insomnia;Mental disorder,C0917801;C0004936
+10,insomnia,C0424566,Not getting enough sleep,Sign or Symptom,False,C0917801,Sleeplessness,Insomnia,C0917801
+11,insomnia,C4329721,Not getting enough sleep,Intellectual Product,False,C0917801,Sleeplessness,,
+12,insomnia,C0424569,Circumstances interfere with sleep,Sign or Symptom,False,C0917801,Sleeplessness,Insomnia,C0917801
+13,insomnia,C0424570,Symptoms interfere with sleep,Sign or Symptom,False,C0917801,Sleeplessness,Insomnia,C0917801
+14,insomnia,C0393759,Transient insomnia,Sign or Symptom,False,C0917801,Sleeplessness,Insomnia,C0917801
+15,insomnia,C4511588,Insomnia co-occurrent and due to medical condition,Disease or Syndrome,False,C0917801,Sleeplessness,Insomnia,C0917801
+16,insomnia,C2911122,"Behavioral insomnia of childhood, combined type",Finding,False,C0917801,Sleeplessness,Behavioral insomnia of childhood,C1561701
+17,insomnia,C2911121,"Behavioral insomnia of childhood, limit setting type",Finding,False,C0917801,Sleeplessness,Behavioral insomnia of childhood,C1561701
+18,insomnia,C2911120,"Behavioral insomnia of childhood, sleep onset association type",Finding,False,C0917801,Sleeplessness,Behavioral insomnia of childhood,C1561701
+19,insomnia,C4274230,Hyposomnia co-occurrent and due to psychological disorder,Mental or Behavioral Dysfunction,False,C0917801,Sleeplessness,Not getting enough sleep;Mental disorder,C0424566;C0004936
+20,insomnia,C0033139,Primary insomnia,Disease or Syndrome,False,C0917801,Sleeplessness,Insomnia,C0917801
+21,insomnia,C0541798,Early morning waking,Mental or Behavioral Dysfunction,False,C0917801,Sleeplessness,Terminal insomnia,C0541798
+22,insomnia,C4053912,Early morning waking,Intellectual Product,False,C0917801,Sleeplessness,,
+23,insomnia,C0159030,Insomnia with sleep apnea,Sign or Symptom,False,C0917801,Sleeplessness,Insomnia,C0917801
+24,insomnia,C1960036,Psychophysiologic insomnia,Mental or Behavioral Dysfunction,False,C0917801,Sleeplessness,Insomnia;Psychophysiologic disorder,C0917801;C0033931
+25,insomnia,C3661804,Insomnia due to anxiety and fear,Mental or Behavioral Dysfunction,False,C0917801,Sleeplessness,Insomnia disorder related to another mental disorder,C1561850
+26,insomnia,C1561841,Adjustment insomnia,Mental or Behavioral Dysfunction,False,C0917801,Sleeplessness,Insomnia,C0917801
+27,insomnia,C0270540,Mixed insomnia,Mental or Behavioral Dysfunction,False,C0917801,Sleeplessness,Insomnia,C0917801
+28,insomnia,C0393760,Initial insomnia,Mental or Behavioral Dysfunction,False,C0917801,Sleeplessness,Insomnia,C0917801
+29,insomnia,C4330086,Initial insomnia,Intellectual Product,False,C0917801,Sleeplessness,,
+30,insomnia,C3176516,Initial insomnia,Clinical Attribute,False,C0917801,Sleeplessness,,
+31,insomnia,C0233506,Initial insomnia,Mental or Behavioral Dysfunction,False,C0917801,Sleeplessness,Mood insomnia,C0233505
+32,insomnia,C0541798,Terminal insomnia,Mental or Behavioral Dysfunction,False,C0917801,Sleeplessness,Terminal insomnia,C0541798
+33,insomnia,C3176518,Terminal insomnia,Clinical Attribute,False,C0917801,Sleeplessness,,
+34,insomnia,C0233508,Terminal insomnia,Mental or Behavioral Dysfunction,False,C0917801,Sleeplessness,Mood insomnia,C0233505
+35,insomnia,C0393761,Middle insomnia,Mental or Behavioral Dysfunction,False,C0917801,Sleeplessness,Insomnia,C0917801
+36,insomnia,C3640496,Middle insomnia,Intellectual Product,False,C0917801,Sleeplessness,,
+37,insomnia,C4330088,Middle insomnia,Intellectual Product,False,C0917801,Sleeplessness,,
+38,insomnia,C3176517,Middle insomnia,Clinical Attribute,False,C0917801,Sleeplessness,,
+39,insomnia,C3842854,Middle insomnia,Finding,False,C0917801,Sleeplessness,,
+40,insomnia,C0233507,Middle insomnia,Mental or Behavioral Dysfunction,False,C0917801,Sleeplessness,Mood insomnia,C0233505
+41,insomnia,C3639385,Middle insomnia,Intellectual Product,False,C0917801,Sleeplessness,,
+42,insomnia,C0751249,Chronic insomnia,Disease or Syndrome,False,C0917801,Sleeplessness,Insomnia;Chronic disease,C0917801;C0008679
+43,insomnia,C4546137,Acute insomnia,Disease or Syndrome,False,C0917801,Sleeplessness,Insomnia;Acute disease,C0917801;C0001314
+44,insomnia,C0021607,Insomnia disorder related to known organic factor,Mental or Behavioral Dysfunction,False,C0917801,Sleeplessness,Insomnia,C0917801
+45,insomnia,C0206042,Fatal familial insomnia,Disease or Syndrome,False,C0917801,Sleeplessness,Hereditary degenerative disease of central nervous system;Insomnia;Prion disease,C1444208;C0917801;C0162534
+46,insomnia,C4082486,Fatal familial insomnia,"Amino Acid, Peptide, or Protein",False,C0917801,Sleeplessness,,
+47,insomnia,C4302704,Fatal familial insomnia,"Amino Acid, Peptide, or Protein",False,C0917801,Sleeplessness,Human spongiform encephalopathy agent,C0446179
+48,insomnia,C1418941,Fatal familial insomnia,Gene or Genome,False,C0917801,Sleeplessness,,
+49,insomnia,C2347435,Fatal familial insomnia,Gene or Genome,False,C0917801,Sleeplessness,,
+50,insomnia,C0270541,Rebound insomnia,Sign or Symptom,False,C0917801,Sleeplessness,Insomnia,C0917801
+51,insomnia,C4317290,Behavioral insomnia of childhood,Finding,False,C0917801,Sleeplessness,,
+52,insomnia,C1561701,Behavioral insomnia of childhood,Mental or Behavioral Dysfunction,False,C0917801,Sleeplessness,Insomnia,C0917801
+53,insomnia,C2911122,Behavioral insomnia of childhood,Finding,False,C0917801,Sleeplessness,Behavioral insomnia of childhood,C1561701
+54,insomnia,C2911123,Behavioral insomnia of childhood,Finding,False,C0917801,Sleeplessness,,
+55,insomnia,C2911120,Behavioral insomnia of childhood,Finding,False,C0917801,Sleeplessness,Behavioral insomnia of childhood,C1561701
+56,insomnia,C2911121,Behavioral insomnia of childhood,Finding,False,C0917801,Sleeplessness,Behavioral insomnia of childhood,C1561701
+57,insomnia,C1561839,Drug-induced insomnia,Mental or Behavioral Dysfunction,False,C0917801,Sleeplessness,Insomnia;Drug-induced sleep disorder,C0917801;C1456292
+58,insomnia,C4274503,Insomnia co-occurrent and due to nocturnal myoclonus,Mental or Behavioral Dysfunction,False,C0917801,Sleeplessness,Insomnia;Nocturnal myoclonus,C0917801;C0751352
+59,insomnia,C4082202,Sleep Quality Question,Intellectual Product,True,,,,
+60,insomnia,C0029645,Other insomnia,Sign or Symptom,True,,,,
+61,insomnia,C0033139,Primary Insomnia,Disease or Syndrome,True,,,Insomnia,C0917801
+62,insomnia,C0752286,Sleep State Misperception,Mental or Behavioral Dysfunction,True,,,Finding related to ability to sleep,C1287568
+63,insomnia,C1561841,Adjustment insomnia,Mental or Behavioral Dysfunction,True,,,Insomnia,C0917801
+64,insomnia,C1561842,Idiopathic insomnia,Mental or Behavioral Dysfunction,True,,,Insomnia,C0917801
+65,insomnia,C1960036,Psychophysiologic insomnia,Mental or Behavioral Dysfunction,True,,,Insomnia;Psychophysiologic disorder,C0917801;C0033931
+66,insomnia,C0349255,Nonorganic Insomnia,Disease or Syndrome,True,,,Insomnia;Non-organic sleep disorder,C0917801;C0154565
+67,insomnia,C0393760,Initial insomnia,Mental or Behavioral Dysfunction,True,,,Insomnia,C0917801
+68,insomnia,C0393761,Middle insomnia,Mental or Behavioral Dysfunction,True,,,Insomnia,C0917801
+69,insomnia,C0751249,Chronic Insomnia,Disease or Syndrome,True,,,Insomnia;Chronic disease,C0917801;C0008679
+70,insomnia,C1333141,Conditioned Insomnia,Pathologic Function,True,,,,
+71,insomnia,C1963237,"Insomnia, CTCAE 3.0",Finding,True,,,,
+72,insomnia,C3640481,HAMA - Insomnia,Intellectual Product,True,,,,
+73,insomnia,C4554626,"Insomnia, CTCAE 5.0",Finding,True,,,,
+74,insomnia,C0541798,Terminal insomnia,Mental or Behavioral Dysfunction,True,,,Terminal insomnia,C0541798
+75,insomnia,C0541798,Early morning waking,Mental or Behavioral Dysfunction,False,C0541798,Terminal insomnia,Terminal insomnia,C0541798
+76,insomnia,C4053912,Early morning waking,Intellectual Product,False,C0541798,Terminal insomnia,,
+77,insomnia,C0270541,Rebound Insomnia,Sign or Symptom,True,,,Insomnia,C0917801
+78,insomnia,C0393759,Transient Insomnia,Sign or Symptom,True,,,Insomnia,C0917801
+79,insomnia,C0751250,Psychophysiological Insomnia,Disease or Syndrome,True,,,,
+80,insomnia,C0751251,Secondary Insomnia,Sign or Symptom,True,,,,
+81,insomnia,C0021607,Insomnia disorder related to known organic factor,Mental or Behavioral Dysfunction,True,,,Insomnia,C0917801
+82,insomnia,C0233505,Mood insomnia,Mental or Behavioral Dysfunction,True,,,Physiological disturbance associated with mood,C0233501
+83,insomnia,C0233508,Terminal mood insomnia,Mental or Behavioral Dysfunction,False,C0233505,Mood insomnia,Mood insomnia,C0233505
+84,insomnia,C0233506,Initial mood insomnia,Mental or Behavioral Dysfunction,False,C0233505,Mood insomnia,Mood insomnia,C0233505
+85,insomnia,C0233507,Middle mood insomnia,Mental or Behavioral Dysfunction,False,C0233505,Mood insomnia,Mood insomnia,C0233505
+86,insomnia,C0270540,Mixed insomnia,Mental or Behavioral Dysfunction,True,,,Insomnia,C0917801
+87,insomnia,C0341866,Menopausal sleeplessness,Sign or Symptom,True,,,Insomnia;Perimenopausal disorder,C0917801;C0404559
+88,insomnia,C0393758,Persistent insomnia (disorder),Disease or Syndrome,True,,,Insomnia,C0917801
+89,insomnia,C0439022,Complaining of insomnia,Finding,True,,,Finding related to sleep;Finding reported by subject or history provider,C1291739;C1689949
+90,insomnia,C0581874,Late insomnia,Mental or Behavioral Dysfunction,True,,,Insomnia,C0917801
+91,insomnia,C4546137,Acute insomnia,Disease or Syndrome,True,,,Insomnia;Acute disease,C0917801;C0001314
+92,insomnia,C0206042,Fatal Familial Insomnia,Disease or Syndrome,True,,,Hereditary degenerative disease of central nervous system;Insomnia;Prion disease,C1444208;C0917801;C0162534
+93,insomnia,C2875252,Insomnia due to medical condition,Disease or Syndrome,True,,,,
+94,insomnia,C4317290,Encounter due to behavioral insomnia of childhood,Finding,True,,,,
+95,insomnia,C1556376,"Grade 1 Insomnia, CTCAE",Finding,True,,,,
+96,insomnia,C1556377,"Grade 2 Insomnia, CTCAE",Finding,True,,,,
+97,insomnia,C1556378,"Grade 3 Insomnia, CTCAE",Finding,True,,,,
+98,insomnia,C1556379,"Grade 4 Insomnia, CTCAE",Finding,True,,,,
+99,insomnia,C1561701,Behavioral insomnia of childhood,Mental or Behavioral Dysfunction,True,,,Insomnia,C0917801
+100,insomnia,C2911122,"Behavioral insomnia of childhood, combined type",Finding,False,C1561701,Behavioral insomnia of childhood,Behavioral insomnia of childhood,C1561701
+101,insomnia,C2911121,"Behavioral insomnia of childhood, limit setting type",Finding,False,C1561701,Behavioral insomnia of childhood,Behavioral insomnia of childhood,C1561701
+102,insomnia,C2911120,"Behavioral insomnia of childhood, sleep onset association type",Finding,False,C1561701,Behavioral insomnia of childhood,Behavioral insomnia of childhood,C1561701
+103,insomnia,C3640495,HAMD-21 - Insomnia Early,Intellectual Product,True,,,,
+104,insomnia,C3640496,HAMD-21 - Insomnia Middle,Intellectual Product,True,,,,
+105,insomnia,C3640497,HAMD-21 - Insomnia Late,Intellectual Product,True,,,,
+106,insomnia,C4330086,HAMD 24 - Insomnia - Initial,Intellectual Product,True,,,,
+107,insomnia,C4330087,HAMD 24 - Insomnia - Late,Intellectual Product,True,,,,
+108,insomnia,C4330088,HAMD 24 - Insomnia - Middle,Intellectual Product,True,,,,
+109,insomnia,C4744379,Cognitive Behavior Therapy for Insomnia,Therapeutic or Preventive Procedure,True,,,,
+110,insomnia,C4763869,Cognitive behavioral therapy for insomnia,Therapeutic or Preventive Procedure,True,,,,
+111,insomnia,C1976703,Insomnia &or change in sleeping pattern,Finding,True,,,,
+112,insomnia,C3175409,Do you currently experience insomnia:Find:Pt:^Patient:Ord:PhenX,Clinical Attribute,True,,,,
+113,insomnia,C3175411,How frequently do you experience insomnia:NRat:Pt:^Patient:Qn:PhenX,Clinical Attribute,True,,,,
+114,insomnia,C3176156,Events or conditions occurring at the same time as difficulty with insomnia:Find:Pt:^Patient:Nom:PhenX,Clinical Attribute,True,,,,
+115,insomnia,C3176158,Does your difficulty with insomnia occur at the same time as any of these events or conditions:Find:Pt:^Patient:Ord:PhenX,Clinical Attribute,True,,,,
+116,insomnia,C3176160,Other drugs or medications occurring with insomnia:Find:Pt:^Patient:Ord:PhenX,Clinical Attribute,True,,,,
+117,insomnia,C3176162,Changing schedule occurring with insomnia:Find:Pt:^Patient:Ord:PhenX,Clinical Attribute,True,,,,
+118,insomnia,C3176163,Changing schedule occurring with insomnia,Finding,True,,,,
+119,insomnia,C3176164,Noisy or uncomfortable surroundings occurring with insomnia:Find:Pt:^Patient:Ord:PhenX,Clinical Attribute,True,,,,
+120,insomnia,C3176166,Stress or major life event occurring with insomnia:Find:Pt:^Patient:Ord:PhenX,Clinical Attribute,True,,,,
+121,insomnia,C3176167,Other disturbances occurring with insomnia:Find:Pt:^Patient:Ord:PhenX,Clinical Attribute,True,,,,
+122,insomnia,C3176168,Other disturbances occurring with insomnia,Finding,True,,,,
+123,insomnia,C3176169,Emotional or mental condition occurring with insomnia:Find:Pt:^Patient:Ord:PhenX,Clinical Attribute,True,,,,
+124,insomnia,C3176516,Initial insomnia:Find:Pt:^Patient:Ord:DI-PAD CGP V 1.4,Clinical Attribute,True,,,,
+125,insomnia,C3176517,Middle insomnia:Find:Pt:^Patient:Ord:DI-PAD CGP V 1.4,Clinical Attribute,True,,,,
+126,insomnia,C3176518,Terminal insomnia:Find:Pt:^Patient:Ord:DI-PAD CGP V 1.4,Clinical Attribute,True,,,,
+127,insomnia,C3176755,"How much does your insomnia, sleep difficulties, upset or distress you:Num:Pt:^Patient:Ord:PhenX",Clinical Attribute,True,,,,
+128,insomnia,C3842854,Middle insomnia present,Finding,True,,,,
+129,insomnia,C4082486,Prion Proteins,"Amino Acid, Peptide, or Protein",True,,,,
+130,insomnia,C0159030,Insomnia with sleep apnea,Sign or Symptom,True,,,Insomnia,C0917801
+131,insomnia,C0233506,Initial mood insomnia,Mental or Behavioral Dysfunction,True,,,Mood insomnia,C0233505
+132,insomnia,C0233507,Middle mood insomnia,Mental or Behavioral Dysfunction,True,,,Mood insomnia,C0233505
+133,insomnia,C0233508,Terminal mood insomnia,Mental or Behavioral Dysfunction,True,,,Mood insomnia,C0233505
+134,insomnia,C1561839,Drug-induced insomnia,Mental or Behavioral Dysfunction,True,,,Insomnia;Drug-induced sleep disorder,C0917801;C1456292
+135,insomnia,C3662857,Insomnia caused by alcohol,Mental or Behavioral Dysfunction,False,C1561839,Drug-induced insomnia,Alcohol-induced sleep disorder;Drug-induced insomnia,C0236662;C1561839
+136,insomnia,C1561850,Insomnia due to mental disorder,Mental or Behavioral Dysfunction,True,,,Insomnia;Mental disorder,C0917801;C0004936
+137,insomnia,C3661804,Insomnia due to anxiety and fear,Mental or Behavioral Dysfunction,False,C1561850,Insomnia due to mental disorder,Insomnia disorder related to another mental disorder,C1561850
+138,insomnia,C3661804,Insomnia due to anxiety and fear,Mental or Behavioral Dysfunction,True,,,Insomnia disorder related to another mental disorder,C1561850
+139,insomnia,C3662857,Insomnia caused by alcohol,Mental or Behavioral Dysfunction,True,,,Alcohol-induced sleep disorder;Drug-induced insomnia,C0236662;C1561839
+140,insomnia,C3875998,Insomnia phototherapy skin patch,Medical Device,True,,,Complementary therapy device,C3874237
+141,insomnia,C4302704,Fatal familial insomnia agent,"Amino Acid, Peptide, or Protein",True,,,Human spongiform encephalopathy agent,C0446179
+142,insomnia,C4316463,Education about insomnia,Educational Activity,True,,,Procedure with a clinical finding focus;Education,C1443303;C0039401
+143,insomnia,C4316475,Insomnia medication review,Health Care Activity,True,,,Review of medication;Procedure with a clinical finding focus,C0560023;C1443303
+144,insomnia,C4520529,Insomnia severity index,Intellectual Product,True,,,Assessment scales,C0450973
+145,insomnia,C4706228,ISI (Insomnia Severity Index) score,Finding,True,,,Sleep related observable,C1285596
+146,insomnia,C2874962,Insomnia due to other mental disorder,Mental or Behavioral Dysfunction,True,,,,
+147,insomnia,C2911122,"Behavioral insomnia of childhood, combined type",Finding,True,,,Behavioral insomnia of childhood,C1561701
+148,insomnia,C2911123,"Behavioral insomnia of childhood, unspecified type",Finding,True,,,,
+149,insomnia,C3639384,HAMD-17 - Insomnia - Early Night,Intellectual Product,True,,,,
+150,insomnia,C3639385,HAMD-17 - Insomnia - Middle Night,Intellectual Product,True,,,,
+151,insomnia,C3639386,HAMD-17 - Insomnia - Early Morning,Intellectual Product,True,,,,
+152,insomnia,C3641566,SOWS Short - Insomnia/Problems Sleeping,Intellectual Product,True,,,,
+153,insomnia,C4330403,IDS-C - Early Morning Insomnia,Intellectual Product,True,,,,
+154,insomnia,C4330410,IDS-C - Mid-Nocturnal Insomnia,Intellectual Product,True,,,,
+155,insomnia,C4330427,IDS-C - Sleep Onset Insomnia,Intellectual Product,True,,,,
+156,insomnia,C4331158,QIDS-C - Early Morning Insomnia,Intellectual Product,True,,,,
+157,insomnia,C4331165,QIDS-C - Mid-Nocturnal Insomnia,Intellectual Product,True,,,,
+158,insomnia,C4331170,QIDS-C - Sleep Onset Insomnia,Intellectual Product,True,,,,
+159,insomnia,C1716670,Insomnia &or change in sleeping pattern:Find:Pt:^Patient:Ord:MDS,Clinical Attribute,True,,,,
+160,insomnia,C3175410,Do you currently experience insomnia,Intellectual Product,True,,,,
+161,insomnia,C3176161,Other drugs or medications occurring with insomnia,Finding,True,,,,
+162,insomnia,C3176165,Noisy or uncomfortable surroundings occurring with insomnia,Finding,True,,,,
+163,insomnia,C3176170,Emotional or mental condition occurring with insomnia,Finding,True,,,,
+164,insomnia,C3176171,Other medical condition occurring with insomnia:Find:Pt:^Patient:Ord:PhenX,Clinical Attribute,True,,,,
+165,insomnia,C3176172,Other medical condition occurring with insomnia,Finding,True,,,,
+166,insomnia,C3176757,What number describes how much your insomnia has affected your social life or relationships with your friends:Num:Pt:^Patient:Ord:PhenX,Clinical Attribute,True,,,,
+167,insomnia,C3176758,What number describes how much your insomnia has affected your relationships with family members:Num:Pt:^Patient:Ord:PhenX,Clinical Attribute,True,,,,
+168,insomnia,C3176759,"What number describes how much your insomnia has affected your performance in school or work or your relationships with your co-workers, employers, teachers or classmates:Num:Pt:^Patient:Ord:PhenX",Clinical Attribute,True,,,,
+169,insomnia,C4545806,Assessment using Insomnia Severity Index,Diagnostic Procedure,True,,,Assessment using assessment scale,C2919191
+170,insomnia,C2874961,Insomnia not due to a substance or known physiological condition,Mental or Behavioral Dysfunction,True,,,,
+171,insomnia,C2874963,Other insomnia not due to a substance or known physiological condition,Mental or Behavioral Dysfunction,True,,,,
+172,insomnia,C2911120,"Behavioral insomnia of childhood, sleep onset association type",Finding,True,,,Behavioral insomnia of childhood,C1561701
+173,insomnia,C2911121,"Behavioral insomnia of childhood, limit setting type",Finding,True,,,Behavioral insomnia of childhood,C1561701
+174,insomnia,C3827431,Worst Severity Past Seven Days Insomnia,Intellectual Product,True,,,,
+175,insomnia,C3166380,Stress or major life event occurring with insomnia,Disease or Syndrome,True,,,,
+176,insomnia,C3175412,How frequently do you experience insomnia,Intellectual Product,True,,,,
+177,insomnia,C3176157,Events or conditions occurring at the same time as difficulty with insomnia,Intellectual Product,True,,,,
+178,insomnia,C2585899,Education about stimulus control behavior in insomnia,Health Care Activity,True,,,Education,C0039401
+179,insomnia,C4274503,Insomnia co-occurrent and due to nocturnal myoclonus,Mental or Behavioral Dysfunction,True,,,Insomnia;Nocturnal myoclonus,C0917801;C0751352
+180,insomnia,C4511588,Insomnia co-occurrent and due to medical condition,Disease or Syndrome,True,,,Insomnia,C0917801
+181,insomnia,C3828646,Past Seven Days Insomnia Interfering with Usual or Daily Activities,Intellectual Product,True,,,,
+182,insomnia,C3176159,Does your difficulty with insomnia occur at the same time as any of these events or conditions,Intellectual Product,True,,,,
+183,insomnia,C3176756,"How much does your insomnia, sleep difficulties, upset or distress you",Intellectual Product,True,,,,
+184,insomnia,C4035446,"Sustained depression with vegetative symptoms insomnia, anorexia, weight loss, loss of interest",Finding,True,,,,
+185,insomnia,C1418941,PRNP gene,Gene or Genome,True,,,,
+186,insomnia,C2347435,PRNP wt Allele,Gene or Genome,True,,,,
+187,insomnia,C3166625,What number describes how much your insomnia has affected your relationships with family members,Intellectual Product,True,,,,
+188,insomnia,C3166626,What number describes how much your insomnia has affected your social life or relationships with your friends,Intellectual Product,True,,,,
+189,insomnia,C3175407,"How old were you the last time you experienced this insomnia, for at least 1Mo:Time:Pt:^Patient:Qn:PhenX",Clinical Attribute,True,,,,
+190,insomnia,C3175408,"How old were you the last time you experienced this insomnia, for at least 1Mo",Intellectual Product,True,,,,
+191,insomnia,C3166624,"What number describes how much your insomnia has affected your performance in school or work or your relationships with your co-workers, employers, teachers or classmates",Intellectual Product,True,,,,
